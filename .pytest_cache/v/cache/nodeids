@@ -1,0 +1,5 @@
+[
+  "test_scritps/test_invalid_login.py::TestInValidLogin::()::test_TC002_invalid_login",
+  "test_scritps/test_valid_login.py::TestLogin::()::test_TC001_valid_login",
+  "test_scritps/test_verify_product_version.py::TestVerifyProductVersion::()::test_TC003_verify_product_version"
+]
